@@ -29,4 +29,4 @@ Welcome to the RootVaultAI protocol documentation hub. Here you’ll find everyt
 - [Fork Capsule Template](fork-capsule-template.md)
 - [Trust Score System Explained](trust-score-system-explained.md)
 - [Submit a Pull Request](submit-a-pull-request.md)
-➡️ [Launch the Genesis Capsule Explorer](https://cloudflare-ipfs.com/ipfs/bafybeictyox66bmqr2ytoe3qzlnzswmtb3wcvxkmgyq7vyrsayxumkphwm)
+➡️ [Launch the Genesis Capsule Explorer](https://cloudflare-ipfs.com/ipfs/bafybeicytox66bmpr2ytoe3g2lnzswmtb3wcxvkmegqv7vyspayxumkphwm/rootvaultai-genesis-capsule.json)
