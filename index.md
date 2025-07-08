@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="rootvaultai-dark.css">
 # RootVaultAI Developer Documentation
 
 Welcome to the RootVaultAI protocol documentation hub. Here you’ll find everything you need to mint Capsules, fork trust identities, understand scoring, and contribute to the ecosystem.
