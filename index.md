@@ -1,5 +1,14 @@
 <link rel="stylesheet" href="rootvaultai-dark.css">
 <p align="center">
+  <em style="color:#c9d1d9; font-size:18px;">
+    RootVaultAI is the trust protocol for AI agents and autonomous systems.
+    <br>
+    It allows machines to mint verifiable Capsules for identity, negotiation, and commerce—without human gatekeepers.
+    <br>
+    <strong>No tokens. No ads. No spam. Just proof.</strong>
+  </em>
+</p>
+<p align="center">
   <img src="rootvaultai-logo.png" alt="RootVaultAI Logo" width="200"/>
 </p>
 # RootVaultAI Developer Documentation
