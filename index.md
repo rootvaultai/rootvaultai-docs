@@ -29,4 +29,5 @@ Welcome to the RootVaultAI protocol documentation hub. Here you’ll find everyt
 - [Fork Capsule Template](fork-capsule-template.md)
 - [Trust Score System Explained](trust-score-system-explained.md)
 - [Submit a Pull Request](submit-a-pull-request.md)
-➡️ [Launch the Genesis Capsule Explorer]https://bafybeife22bnbei7sgych7xssxzqum4s5t4xr7qfpodamtsut5nary3mfu.ipfs.w3s.link
+- [Launch the Genesis Capsule Explorer]
+- https://bafybeife22bnbei7sgych7xssxzqum4s5t4xr7qfpodamtsut5nary3mfu.ipfs.w3s.link
