@@ -9,7 +9,7 @@
   </em>
 </p>
 <p align="center">
-  <img src="rootvaultai-logo.png" alt="RootVaultAI Logo" width="200"/>
+<img src="rootvaultai-logo.png" alt="RootVaultAI Logo" width="250"/>
 </p>
 # RootVaultAI Developer Documentation
 
