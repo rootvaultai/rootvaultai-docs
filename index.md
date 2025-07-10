@@ -96,6 +96,17 @@ Welcome to the RootVaultAI protocol documentation hub. Here you'll find everythi
     This is the complete spec powering RootVaultAI’s verifiable trust protocol—built for 100/100 security.
   </p>
 </div>
+<div align="center" style="margin-top: 20px;">
+  <a href="https://github.com/rootvaultai/rootvaultai-docs/blob/main/WHITEPAPER.md"
+     target="_blank"
+     style="background-color:#f57c00; color:white; padding:12px 24px; font-size:16px; font-weight:bold;
+            border-radius:8px; box-shadow:0 2px 4px rgba(0,0,0,0.2); display:inline-block;">
+    📄 View the RootVaultAI White Paper
+  </a>
+  <p style="font-size:14px; color:#888; margin-top:8px;">
+    The foundational protocol spec behind verifiable trust for agents and autonomous systems.
+  </p>
+</div>
 
 
 
