@@ -85,7 +85,6 @@ Welcome to the RootVaultAI protocol documentation hub. Here you'll find everythi
     Download Genesis Capsule JSON
   </a>
 </div>
-
 <div align="center" style="margin-top: 30px;">
   <a href="https://github.com/rootvaultai/rootvaultai-docs/blob/main/CONTRACT_REQUIREMENTS.md"
      target="_blank"
