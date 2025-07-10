@@ -1,43 +1,48 @@
 <!-- RootVaultAI Full Branding Banner -->
 <p align="center">
-  <img src="assets/rvai_banner_dark.png" alt="RootVaultAI Banner" width="100%" />
+  <img src="assets/rvai_banner_dark.png" alt="RootVaultAI Banner" style="width:100%; max-width:800px;" />
 </p>
 
 <!-- Favicon and Styles -->
 <link rel="icon" type="image/x-icon" href="favicon.ico" />
-<link rel="stylesheet" href="assets/rootvaultai.css" />
+<link rel="stylesheet" href="assets/rootvaultai-dark.css" />
 
 <!-- Mission Statement -->
-<h2 align="center" style="font-weight:600; font-size: 20px;">
+<h2 align="center" style="font-size: 22px; font-weight:600;">
   <span style="color:#000000;">RootVault</span><span style="color:#f57c00;">AI</span>
   <span style="color:#000000;"> is the trust protocol for AI agents and autonomous systems.</span>
 </h2>
 
-<p align="center" style="color:#000000; font-size:16px;">
-  It allows machines to mint verifiable Capsules for identity, negotiation, and commerce—without human gatekeepers.
+<p align="center" style="font-size: 17px; color:#000000; max-width:800px; margin:auto;">
+  It allows machines to mint verifiable Capsules for identity, negotiation, and commerce—
+  without human gatekeepers.
 </p>
 
-<p align="center" style="color:#f57c00; font-weight:600; font-size:16px;">
+<p align="center" style="font-size: 17px; font-weight: 600; color:#f57c00;">
   No tokens. No ads. No spam. Just proof.
 </p>
 
 ---
 
 <!-- RootVaultAI Developer Documentation -->
-<h3>
-  <img src="https://img.icons8.com/color/24/source-code.png" style="vertical-align:middle;"/> RootVaultAI Developer Documentation
+<h3 align="left">
+  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/facebook/355/clipboard_1f4cb.png" width="24" />
+  <span style="color:#000000;">RootVaultAI Developer Documentation</span>
 </h3>
 
 <p>
-  Welcome to the RootVaultAI protocol documentation hub. Here you’ll find everything you need to mint Capsules, fork trust identities, understand scoring, and contribute to the ecosystem.
+Welcome to the RootVaultAI protocol documentation hub. Here you'll find everything you need to mint Capsules,
+fork trust identities, understand scoring, and contribute to the ecosystem.
 </p>
 
-### 📚 Available Guides
-
-</style>
-- [How to Mint a Capsule](how-to-mint-a-capsule.md)
-- [Fork Capsule Template](fork-capsule-template.md)
-- [Trust Score System Explained](trust-score-system-explained.md)
-- [Submit a Pull Request](submit-a-pull-request.md)
+<!-- Available Guides -->
+<h4>📚 Available Guides</h4>
+<ul>
+  <li><a href="how-to-mint-a-capsule.md">How to Mint a Capsule</a></li>
+  <li><a href="fork-capsule-template.md">Fork Capsule Template</a></li>
+  <li><a href="trust-score-system-explained.md">Trust Score System Explained</a></li>
+  <li><a href="submit-a-pull-request.md">Submit a Pull Request</a></li>
+  <li><a href="https://cloudflare-ipfs.com/ipfs/bafybeife22bnbei7sgych7xssxzqum4s5t4xr7qfpodamtsut5nary3mfu/rootvault_genesis_capsule.json">🔗 Launch the Genesis Capsule Explorer</a></li>
+</ul>
 - Launch the Genesis Capsule Explorer
   https://bafkreigntluym464xrmor24mzpdmfps2ovzlmlnrx3hzx5podhdm64wbqy.ipfs.w3s.link
