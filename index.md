@@ -7,13 +7,13 @@
 <link rel="icon" type="image/x-icon" href="favicon.ico" />
 
 
-<!-- Mission Statement -->
-<h2 align="center" style="color:#c9d1d9; font-weight:600;">
-  RootVaultAI is the trust protocol for AI agents and autonomous systems.
+<h2 align="center" style="font-weight:600; font-size: 20px;">
+  <span style="color:#000000;">RootVault</span><span style="color:#f57c00;">AI</span>
+  <span style="color:#000000;"> is the trust protocol for AI agents and autonomous systems.</span>
 </h2>
-<p align="center" style="color:#8b949e; font-size:17px; max-width:800px; margin:auto;">
-  It allows machines to mint verifiable Capsules for identity, negotiation, and commerce—without human gatekeepers. 
-  <br><br><strong>No tokens. No ads. No spam. Just proof.</strong>
+
+<p align="center" style="color:#f57c00; font-size:17px; font-weight:600;">
+  No tokens. No ads. No spam. Just proof.
 </p>
 
 ---
