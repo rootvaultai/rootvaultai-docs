@@ -33,7 +33,12 @@
 </p>
 
 ### 📚 Available Guides
-
+<style>
+  a {
+    color: #f57c00;
+    font-weight: 500;
+  }
+</style>
 - [How to Mint a Capsule](how-to-mint-a-capsule.md)
 - [Fork Capsule Template](fork-capsule-template.md)
 - [Trust Score System Explained](trust-score-system-explained.md)
