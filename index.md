@@ -41,8 +41,6 @@ Welcome to the RootVaultAI protocol documentation hub. Here you'll find everythi
 
 ## 🚀 Genesis Capsule Access
 
-## 🚀 Genesis Capsule Access
-
 <div align="center" style="margin-top: 30px; margin-bottom: 20px;">
   <a href="assets/genesis-capsule.json" 
      target="_blank" 
