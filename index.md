@@ -48,22 +48,23 @@ Welcome to the RootVaultAI protocol documentation hub. Here you'll find everythi
 
 <ul>
   <li>
-    <img src="assets/capsule-icon.png" width="16" style="vertical-align: middle; margin-right: 6px;" />
+    <img src="assets/capsule-icon.png" width="24" style="vertical-align: middle; margin-right: 8px;" />
     <a href="how-to-mint-a-capsule.md">How to Mint a Capsule</a>
   </li>
   <li>
-    <img src="assets/capsule-icon.png" width="16" style="vertical-align: middle; margin-right: 6px;" />
+    <img src="assets/capsule-icon.png" width="24" style="vertical-align: middle; margin-right: 8px;" />
     <a href="fork-capsule-template.md">Fork Capsule Template</a>
   </li>
   <li>
-    <img src="assets/capsule-icon.png" width="16" style="vertical-align: middle; margin-right: 6px;" />
+    <img src="assets/capsule-icon.png" width="24" style="vertical-align: middle; margin-right: 8px;" />
     <a href="trust-score-system-explained.md">Trust Score System Explained</a>
   </li>
   <li>
-    <img src="assets/capsule-icon.png" width="16" style="vertical-align: middle; margin-right: 6px;" />
+    <img src="assets/capsule-icon.png" width="24" style="vertical-align: middle; margin-right: 8px;" />
     <a href="submit-a-pull-request.md">Submit a Pull Request</a>
   </li>
 </ul>
+
 
 
 ---
