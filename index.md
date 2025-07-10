@@ -86,16 +86,18 @@ Welcome to the RootVaultAI protocol documentation hub. Here you'll find everythi
   </a>
 </div>
 <div align="center" style="margin-top: 30px;">
-<a href="https://github.com/rootvaultai/rootvaultai-docs/blob/main/CONTRACT_REQUIREMENTS.md"
-
+<div align="center" style="margin-top: 30px;">
+  <a href="https://github.com/rootvaultai/rootvaultai-docs/blob/main/CONTRACT_REQUIREMENTS.md"
      target="_blank"
      style="background-color:#000000; color:white; padding:12px 24px; font-size:16px;
             border-radius:8px; box-shadow:0 2px 4px rgba(0,0,0,0.2); display:inline-block;">
     📄 View Smart Contract Requirements Spec
   </a>
- <p style="font-size:14px; color:#888;">
-  This is the complete spec powering RootVaultAI’s verifiable trust protocol—built for 100/100 security.
-</p>
+  <p style="font-size:14px; color:#888; margin-top:8px;">
+    This is the complete spec powering RootVaultAI’s verifiable trust protocol—built for 100/100 security.
+  </p>
+</div>
+
 
 
 
