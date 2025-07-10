@@ -38,8 +38,7 @@ fork trust identities, understand scoring, and contribute to the ecosystem.
   <li><a href="fork-capsule-template.md">Fork Capsule Template</a></li>
   <li><a href="trust-score-system-explained.md">Trust Score System Explained</a></li>
   <li><a href="submit-a-pull-request.md">Submit a Pull Request</a></li>
-  <li><a href="https://cloudflare-ipfs.com/ipfs/bafybeife22bnbei7sgych7xssxzqum4s5t4xr7qfpodamtsut5nary3mfu/rootvault_genesis_capsule.json">🔗 Launch the Genesis Capsule Explorer</a></li>
-</ul>
+➡️ [Launch the Genesis Capsule Explorer]https://bafkreigntluym464xrmor24mzpdmfps2ovzlmlnrx3hzx5podhdm64wbqy.ipfs.w3s.link
 
 
 ---
