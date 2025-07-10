@@ -112,18 +112,17 @@ Welcome to the RootVaultAI protocol documentation hub. Here you'll find everythi
 
 ---
 
-<h2>
-  <img src="assets/rootvault-join-ecosystem-icon.png" width="24" style="vertical-align: middle; margin-right: 6px;" />
+<h2 style="text-align: center; text-decoration: underline;">
+  <img src="assets/rootvault-logo-small.png" width="22" style="vertical-align: middle; margin-right: 6px;" />
   Join the Ecosystem
 </h2>
 
-
-
 <p align="center">
-  <a href="https://discord.gg/rootvaultai" style="color:#000000; font-weight:600;">💬 Discord</a> &nbsp; | &nbsp;
-  <a href="https://x.com/rootvaultai" style="color:#000000; font-weight:600;">🐦 Twitter / X</a> &nbsp; | &nbsp;
-  <a href="https://github.com/rootvaultai/rootvaultai-docs/issues" style="color:#000000; font-weight:600;">🐛 GitHub Issues</a>
+  <a href="https://discord.gg/rootvaultai" style="color:#000000; font-weight:600;">Discord</a> &nbsp; | &nbsp;
+  <a href="https://x.com/rootvaultai" style="color:#000000; font-weight:600;">Twitter / X</a> &nbsp; | &nbsp;
+  <a href="https://github.com/rootvaultai/rootvaultai-docs/issues" style="color:#000000; font-weight:600;">GitHub Issues</a>
 </p>
+
 
 ---
 
