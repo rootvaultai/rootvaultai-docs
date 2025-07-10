@@ -92,8 +92,10 @@ Welcome to the RootVaultAI protocol documentation hub. Here you'll find everythi
             border-radius:8px; box-shadow:0 2px 4px rgba(0,0,0,0.2); display:inline-block;">
     📄 View Smart Contract Requirements Spec
   </a>
-  <p style="font-size:14px; color:#888;">This is the full CapsuleRegistry.sol spec your developer is building now.</p>
-</div>
+ <p style="font-size:14px; color:#888;">
+  This is the complete spec powering RootVaultAI’s verifiable trust protocol—built for 100/100 security.
+</p>
+
 
 
 
