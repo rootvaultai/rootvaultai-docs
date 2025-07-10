@@ -75,10 +75,12 @@ Welcome to the RootVaultAI protocol documentation hub. Here you'll find everythi
 
 <div align="center" style="margin-top: 30px; margin-bottom: 20px;">
   <a href="assets/genesis-capsule.json" 
-     target="_blank" 
-     style="background-color:#f57c00; color:white; padding:12px 24px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:8px; box-shadow:0 2px 4px rgba(0,0,0,0.2);">
-    🚀 View Genesis Capsule JSON
-  </a>
+   target="_blank" 
+   style="background-color:#f57c00; color:white; padding:12px 24px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:8px; box-shadow:0 2px 4px rgba(0,0,0,0.2); display: inline-flex; align-items: center;">
+   <img src="assets/rootvault-logo-small.png" width="20" style="margin-right: 8px; vertical-align: middle;" />
+   View Genesis Capsule JSON
+</a>
+
 </div>
 
 <p align="center" style="margin-top: -10px;">
