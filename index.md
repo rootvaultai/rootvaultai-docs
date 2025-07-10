@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/rvai_banner_dark.png" alt="RootVaultAI Banner" width="100%" />
+</p>
 <!-- Favicon and Styles -->
 <link rel="icon" type="image/x-icon" href="favicon.ico">
 <link rel="stylesheet" href="rootvaultai-dark.css">
