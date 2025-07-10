@@ -42,10 +42,7 @@ Welcome to the RootVaultAI protocol documentation hub. Here you'll find everythi
 
 
 
-<h2>
-  <img src="assets/capsule-icon.png" alt="Capsule Icon" width="26" style="vertical-align: middle; margin-right: 6px;" />
-  Available Guides
-</h2>
+
 
 <div style="margin-left: 12px; line-height: 2;">
   <div>
