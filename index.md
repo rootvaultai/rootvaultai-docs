@@ -55,15 +55,7 @@ Welcome to the RootVaultAI protocol documentation hub. Here you'll find everythi
   </a>
 </p>
 
-    🚀 View the Genesis Capsule JSON
-  </a>
-</p>
-
-<p align="center" style="margin-top:8px;">
-  <a href="assets/genesis-capsule.json" download style="color:#000000; font-size:14px;">
-    ⬇️ Download Genesis Capsule JSON
-  </a>
-</p>
+ 
 
 ---
 
