@@ -99,12 +99,13 @@ Welcome to the RootVaultAI protocol documentation hub. Here you'll find everythi
   RootVaultAI Developer Documentation
 </h2>
 
-<ul>
-  <li><span style="color:#999999;">Capsule Registry Smart Contract Spec (coming soon)</span></li>
-  <li><span style="color:#999999;">Negotiation Capsule Contract Spec (coming soon)</span></li>
-  <li><a href="https://github.com/rootvaultai/capsule-explorer">Capsule Explorer Source Code</a></li>
-  <li><a href="developer-resources.md">Developer Resources & JSON Schema</a></li>
+<ul style="margin-left: 8px;">
+  <li><span style="color:#f8c99b;">Capsule Registry Smart Contract Spec (coming soon)</span></li>
+  <li><span style="color:#f8c99b;">Negotiation Capsule Contract Spec (coming soon)</span></li>
+  <li><span style="color:#f8c99b;">Capsule Explorer Source Code (coming soon)</span></li>
+  <li><span style="color:#f8c99b;">Developer Resources & JSON Schema (coming soon)</span></li>
 </ul>
+
 
 
 ---
