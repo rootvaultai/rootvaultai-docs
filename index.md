@@ -3,7 +3,7 @@
 
 <!-- Favicon and Styles -->
 <link rel="icon" type="image/x-icon" href="favicon.ico" />
-<link rel="stylesheet" href="assets/rootvaultai-dark.css" />
+<link rel="stylesheet" href="rootvaultai-dark.css" />
 
 <!-- Mission Statement -->
 <h2 align="center" style="color:#c9d1d9; font-weight:600;">
