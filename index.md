@@ -73,9 +73,10 @@ Welcome to the RootVaultAI protocol documentation hub. Here you'll find everythi
 ---
 
 <h2>
-  <img src="assets/rootvault-quick-access-icon.png" width="24" style="vertical-align: middle; margin-right: 6px;" />
-  Quick Access
+  <img src="assets/rootvault-developer-docs-icon.png" width="24" style="vertical-align: middle; margin-right: 6px;" />
+  RootVaultAI Developer Documentation
 </h2>
+
 
 
 - [Capsule Registry Smart Contract Spec](contracts/capsule-registry.md)
