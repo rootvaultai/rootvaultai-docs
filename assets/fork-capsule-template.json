@@ -1,0 +1,22 @@
+{
+  "capsule_id": "rootvaultai.fork.template",
+  "capsule_type": "identity",
+  "creator": "ROB ANDERS",
+  "version": "1.0",
+  "timestamp": "to-be-filled",
+  "whitepaper_ipfs": "ipfs://bafkreiaur4nzbuzod3zfce5g2sdg5fxkr27bymcnx476j46ispzygpj7se",
+  "trust_score": {
+    "initial_score": 50,
+    "inherited_from": "rootvaultai.genesis",
+    "decay_rate": "default"
+  },
+  "permissions": {
+    "can_fork": true,
+    "can_verify": true,
+    "can_extend": true
+  },
+  "resources": {
+    "explorer_ui": "https://rootvaultai.github.io/rootvaultai-docs/",
+    "docs": "https://github.com/rootvaultai/rootvaultai-docs"
+  }
+}
