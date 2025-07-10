@@ -20,9 +20,10 @@
 ---
 
 <h2>
-  <img src="assets/rootvault-developer-docs-icon.png" width="28" style="vertical-align: middle; margin-right: 6px;" />
+  <img src="assets/rootvault-developer-docs-icon.png" width="24" style="vertical-align: middle; margin-right: 6px;" />
   RootVaultAI Developer Documentation
 </h2>
+
 
 
 Welcome to the RootVaultAI protocol documentation hub. Here you'll find everything you need to:
