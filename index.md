@@ -39,12 +39,13 @@ fork trust identities, understand scoring, and contribute to the ecosystem.
   <li><a href="trust-score-system-explained.md">Trust Score System Explained</a></li>
   <li><a href="submit-a-pull-request.md">Submit a Pull Request</a></li>
   
- [Launch the Genesis Capsule Explorer]
+ Launch the Genesis Capsule Explorer
   (https://bafkreigntluym464xrmor24mzpdpmfps2ovzimlnx3hzxspodhm04wbeyjpls.wss.link)
 
 
 ---
 
 <p align="center" style="color:#000000; font-size:13px;">
+
   © 2025 RootVaultAI. All rights reserved.
 </p>
