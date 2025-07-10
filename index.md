@@ -7,18 +7,13 @@
 <link rel="icon" type="image/x-icon" href="favicon.ico" />
 
 
-<!-- Mission Statement -->
-<h2 align="center" style="font-size: 20px; font-weight:600;">
-  <span style="color: #f57c00;">RootVaultAI</span>
-  <span style="color: #000000;"> is the trust protocol for AI agents and autonomous systems.</span>
+<h2 align="center" style="font-weight:600;">
+  RootVault<span style="color:#f57c00;">AI</span> is the trust protocol for AI agents and autonomous systems.
 </h2>
 
 <p align="center" style="font-size:17px; max-width:800px; margin:auto;">
-  <span style="color: #000000;">
-    It allows machines to mint verifiable Capsules for identity, negotiation, and commerce—without human gatekeepers.
-  </span>
-  <br><br>
-  <strong style="color: #f57c00;">No tokens. No ads. No spam. Just proof.</strong>
+  It allows machines to mint verifiable Capsules for identity, negotiation, and commerce—without human gatekeepers.<br><br>
+  No tokens. No ads. No spam. <strong style="color:#f57c00;">Just proof.</strong>
 </p>
 
 ---
