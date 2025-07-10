@@ -94,6 +94,7 @@ Welcome to the RootVaultAI protocol documentation hub. Here you'll find everythi
 
 ---
 
+
 <h2>
   <img src="assets/rootvault-logo-small.png" width="22" style="vertical-align: middle; margin-right: 6px;" />
   RootVaultAI Developer Documentation
@@ -105,6 +106,7 @@ Welcome to the RootVaultAI protocol documentation hub. Here you'll find everythi
   <li><span style="color:#f8c99b;">Capsule Explorer Source Code (coming soon)</span></li>
   <li><span style="color:#f8c99b;">Developer Resources & JSON Schema (coming soon)</span></li>
 </ul>
+
 
 
 
