@@ -127,7 +127,10 @@ Welcome to the RootVaultAI protocol documentation hub. Here you'll find everythi
 
 ---
 
-<p align="center" style="color:#000000; font-size:13px;">
-  © 2025 RootVaultAI. All rights reserved.
-</p>
+<div style="background-color:#000000; color:white; padding:20px 0; text-align:center; margin-top:40px;">
+  <p style="margin: 0; font-size:14px;">
+    © 2025 <strong>RootVaultAI</strong>. All rights reserved.
+  </p>
+</div>
+
 
