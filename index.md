@@ -86,7 +86,8 @@ Welcome to the RootVaultAI protocol documentation hub. Here you'll find everythi
   </a>
 </div>
 <div align="center" style="margin-top: 30px;">
-  <a href="https://github.com/rootvaultai/rootvaultai/blob/main/CONTRACT_REQUIREMENTS.md"
+  <a href="https://github.com/rootvaultai/rootvaultai-docs/blob/main/CONTRACT_REQUIREMENTS.md
+"
      target="_blank"
      style="background-color:#000000; color:white; padding:12px 24px; font-size:16px;
             border-radius:8px; box-shadow:0 2px 4px rgba(0,0,0,0.2); display:inline-block;">
