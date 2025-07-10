@@ -114,9 +114,10 @@ Welcome to the RootVaultAI protocol documentation hub. Here you'll find everythi
 ---
 
 <h2 style="text-align: center; text-decoration: underline;">
-  <img src="assets/rootvault-logo-small.png" width="22" style="vertical-align: middle; margin-right: 6px;" />
+  <img src="assets/rootvault-logo-small.png" width="32" style="vertical-align: middle; margin-right: 10px;" />
   Join the Ecosystem
 </h2>
+
 
 <p align="center">
   <a href="https://discord.gg/rootvaultai" style="color:#000000; font-weight:600;">Discord</a> &nbsp; | &nbsp;
