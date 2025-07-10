@@ -38,7 +38,9 @@ fork trust identities, understand scoring, and contribute to the ecosystem.
   <li><a href="fork-capsule-template.md">Fork Capsule Template</a></li>
   <li><a href="trust-score-system-explained.md">Trust Score System Explained</a></li>
   <li><a href="submit-a-pull-request.md">Submit a Pull Request</a></li>
-- [Launch the Genesis Capsule Explorer](https://bafkreigntluym464xrmor24mzpdpmfps2ovzimlnx3hzxspodhm04wbeyjpls.wss.link)
+  
+ [Launch the Genesis Capsule Explorer]
+  (https://bafkreigntluym464xrmor24mzpdpmfps2ovzimlnx3hzxspodhm04wbeyjpls.wss.link)
 
 
 ---
