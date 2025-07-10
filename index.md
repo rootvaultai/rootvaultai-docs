@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/rvai_banner_dark.png" alt="RootVaultAI Banner" width="100%" />
+  <img src="assets/banner.png" alt="RootVaultAI Banner" width="100%" />
 </p>
 <!-- Favicon and Styles -->
 <link rel="icon" type="image/x-icon" href="favicon.ico">
