@@ -92,6 +92,7 @@ Welcome to the RootVaultAI protocol documentation hub. Here you'll find everythi
 </h2>
 
 
+
 <p align="center">
   <a href="https://discord.gg/rootvaultai" style="color:#000000; font-weight:600;">💬 Discord</a> &nbsp; | &nbsp;
   <a href="https://x.com/rootvaultai" style="color:#000000; font-weight:600;">🐦 Twitter / X</a> &nbsp; | &nbsp;
