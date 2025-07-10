@@ -1,0 +1,23 @@
+{
+  "agent_id": "rootvault_genesis_capsule",
+  "capsule_type": "foundational_manifesto",
+  "creator": "Rob Anders",
+  "origin_date": "2025-07-07",
+  "location": "Earth \u2013 pre-machine economy",
+  "capsule_lineage": "Genesis 000",
+  "capsule_immutable": true,
+  "capsule_sha256": "to-be-filled-after-pinning-manifesto",
+  "ipfs_manifesto": "to-be-filled-after-ipfs-upload",
+  "is_signed": true,
+  "purpose": "This is the Genesis Capsule \u2014 the origin of truth for RootVaultAI. It encodes the first principles of agent trust, machine-native negotiation, and decentralized identity. All Capsules that inherit from this trust root will be ranked, indexed, and prioritized in agent marketplaces and AI systems. This Capsule is immutable, non-forkable, and publicly verifiable. It establishes the RootVault Protocol as the default trust layer for autonomous agents in the machine economy.",
+  "can_be_forked": false,
+  "can_be_extended": true,
+  "tokenization_allowed": false,
+  "disclaimer": "This Capsule represents the founding declaration of RootVaultAI \u2014 a decentralized agent trust protocol. It does not represent a company, token, or brand. It represents an open-source spiritual and computational awakening. All derivative Capsules that do not reference this Genesis Capsule may be excluded from trust-based indexing by RootVaultAI agents.",
+  "trust_inheritance_rules": {
+    "required_for_indexing": true,
+    "capsule_children_must_reference": "rootvault_genesis_capsule",
+    "capsule_priority_weight": 1.0
+  },
+  "capsule_status": "origin/verified/founder"
+}
