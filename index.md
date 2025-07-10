@@ -19,7 +19,11 @@
 
 ---
 
-## 📚 RootVaultAI Developer Documentation
+<h2>
+  <img src="assets/rootvault-developer-docs-icon.png" width="28" style="vertical-align: middle; margin-right: 6px;" />
+  RootVaultAI Developer Documentation
+</h2>
+
 
 Welcome to the RootVaultAI protocol documentation hub. Here you'll find everything you need to:
 
@@ -30,7 +34,11 @@ Welcome to the RootVaultAI protocol documentation hub. Here you'll find everythi
 
 ---
 
-## 📘 Available Guides
+<h2>
+  <img src="assets/rootvault-logo-small.png" alt="RootVaultAI Icon" width="22" style="vertical-align: middle; margin-right: 6px;" />
+  Available Guides
+</h2>
+
 
 - [🪙 How to Mint a Capsule](how-to-mint-a-capsule.md)
 - [🌱 Fork Capsule Template](fork-capsule-template.md)
@@ -39,7 +47,11 @@ Welcome to the RootVaultAI protocol documentation hub. Here you'll find everythi
 
 ---
 
-## 🚀 Genesis Capsule Access
+<h2>
+  <img src="assets/rootvault-logo-small.png" alt="RootVaultAI Icon" width="22" style="vertical-align: middle; margin-right: 6px;" />
+  Genesis Capsule Access
+</h2>
+
 
 <div align="center" style="margin-top: 30px; margin-bottom: 20px;">
   <a href="assets/genesis-capsule.json" 
@@ -59,7 +71,11 @@ Welcome to the RootVaultAI protocol documentation hub. Here you'll find everythi
 
 ---
 
-## 🔗 Quick Access
+<h2>
+  <img src="assets/rootvault-quick-access-icon.png" width="24" style="vertical-align: middle; margin-right: 6px;" />
+  Quick Access
+</h2>
+
 
 - [Capsule Registry Smart Contract Spec](contracts/capsule-registry.md)
 - [Negotiation Capsule Contract Spec](contracts/negotiation-capsule.md)
@@ -68,7 +84,11 @@ Welcome to the RootVaultAI protocol documentation hub. Here you'll find everythi
 
 ---
 
-## 🤝 Join the Ecosystem
+<h2>
+  <img src="assets/rootvault-join-ecosystem-icon.png" width="24" style="vertical-align: middle; margin-right: 6px;" />
+  Join the Ecosystem
+</h2>
+
 
 <p align="center">
   <a href="https://discord.gg/rootvaultai" style="color:#000000; font-weight:600;">💬 Discord</a> &nbsp; | &nbsp;
