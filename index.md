@@ -39,11 +39,11 @@ Welcome to the RootVaultAI protocol documentation hub. Here you'll find everythi
 
 ---
 
-## 🚀 Genesis Capsule Explorer
+## 🚀 Genesis Capsule Access
 
 <p align="center" style="margin-top: 20px;">
-  <a href="/rootvaultai-docs/explorer" style="color:#f57c00; font-weight:bold; font-size:16px;" target="_blank">
-    🚀 Launch the Genesis Capsule Explorer
+  <a href="assets/genesis-capsule.json" style="color:#f57c00; font-weight:bold; font-size:16px;" target="_blank">
+    🚀 View the Genesis Capsule JSON
   </a>
 </p>
 
