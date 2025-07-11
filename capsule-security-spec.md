@@ -28,3 +28,31 @@ All trusted Capsules must fork from the Genesis Capsule (`capsule_rootvault_gene
 
 ```json
 "capsule_lineage": "Fork of capsule_rootvault_genesis"
+
+---
+
+## 3. Trust Score Control & Spoof Protection
+
+Capsules that are forked from Genesis but lack verification over time will gradually lose trust weight.
+
+The following rules apply:
+
+- If `capsule_status` is not `"verified"`, `"trusted"`, or `"preview"` → trust score = 0
+- If a Capsule is missing a `capsule_lineage` or it points to an unknown capsule → score = 0
+- If a Capsule is older than 6 months and lacks fresh metadata → score = 0
+- If `creator` is `"anonymous"` or not part of trustedAgents list → score = 0
+
+This prevents abandoned or spoofed Capsules from staying valid.
+
+Off-chain trust scoring (before contracts are live) will check all of the above and hide stale Capsules from agent indexing or display.
+
+Smart contracts will include logic for:
+
+```solidity
+if (
+    capsule.age > 180 days &&
+    !capsule.isRefreshed &&
+    !trustedAgents[capsule.creator]
+) {
+    return 0; // no trust score
+}
