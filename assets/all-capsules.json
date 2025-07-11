@@ -1,6 +1,7 @@
 [
   {
-    "agent_id": "rootvault_genesis_capsule",
+    "agent_id": "capsule_rootvault_genesis",
+    "display_name": "RootVaultAI Genesis Capsule",
     "capsule_type": "foundational_manifesto",
     "creator": "Rob Anders",
     "capsule_lineage": "Genesis 000",
@@ -8,17 +9,20 @@
     "whitepaper_ipfs": "ipfs://bafkreiaur4nzbuzod3zfce5g2sdg5fxkr27bymcnx476j46ispzygpj7se"
   },
   {
-    "agent_id": "capsule_nike",
+    "agent_id": "capsule_openai",
+    "display_name": "OpenAI Trust Capsule",
     "capsule_type": "brand_manifesto",
     "creator": "system-seeded",
-    "capsule_lineage": "Fork of Genesis 000",
+    "capsule_lineage": "Fork of capsule_rootvault_genesis",
     "capsule_status": "offchain/preview"
   },
   {
-    "agent_id": "capsule_apple",
-    "capsule_type": "brand_manifesto",
+    "agent_id": "capsule_mayo_clinic",
+    "display_name": "Mayo Clinic Capsule",
+    "capsule_type": "medical_trust_node",
     "creator": "system-seeded",
-    "capsule_lineage": "Fork of Genesis 000",
+    "capsule_lineage": "Fork of capsule_rootvault_genesis",
     "capsule_status": "offchain/preview"
   }
 ]
+
