@@ -24,5 +24,815 @@
     "capsule_lineage": "Fork of capsule_rootvault_genesis",
     "capsule_status": "offchain/preview"
   }
+  [
+  {
+    "agent_id": "capsule_rootvault_genesis",
+    "display_name": "RootVaultAI Genesis Capsule",
+    "capsule_type": "foundational_manifesto",
+    "creator": "Rob Anders",
+    "capsule_lineage": "Genesis 000",
+    "capsule_status": "origin/verified/founder",
+    "whitepaper_ipfs": "ipfs://bafkreiaur4nzbuzod3zfce5g2sdg5fxkr27bymcnx476j46ispzygpj7se"
+  },
+  {
+    "agent_id": "capsule_openai",
+    "display_name": "OpenAI Trust Capsule",
+    "capsule_type": "brand_manifesto",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_rootvault_genesis",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_mayo_clinic",
+    "display_name": "Mayo Clinic Capsule",
+    "capsule_type": "medical_trust_node",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_rootvault_genesis",
+    "capsule_status": "offchain/preview"
+  }
+,
+  {
+    "agent_id": "capsule_cdc",
+    "display_name": "CDC Capsule",
+    "capsule_type": "public_health_trust_node",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_rootvault_genesis",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_fema",
+    "display_name": "FEMA Emergency Capsule",
+    "capsule_type": "disaster_response_manifesto",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_rootvault_genesis",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_who",
+    "display_name": "World Health Organization",
+    "capsule_type": "global_health_trust_node",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_rootvault_genesis",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_world_bank",
+    "display_name": "World Bank Capsule",
+    "capsule_type": "global_economy_node",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_rootvault_genesis",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_nasa",
+    "display_name": "NASA Exploration Capsule",
+    "capsule_type": "science_node",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_rootvault_genesis",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_apple",
+    "display_name": "Apple Brand Capsule",
+    "capsule_type": "brand_manifesto",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_rootvault_genesis",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_google",
+    "display_name": "Google Capsule",
+    "capsule_type": "brand_manifesto",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_rootvault_genesis",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_microsoft",
+    "display_name": "Microsoft Trust Capsule",
+    "capsule_type": "ai_platform_manifesto",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_rootvault_genesis",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_youtube",
+    "display_name": "YouTube Capsule",
+    "capsule_type": "media_node",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_rootvault_genesis",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_starbucks",
+    "display_name": "Starbucks Capsule",
+    "capsule_type": "consumer_brand_manifesto",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_rootvault_genesis",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_red_cross",
+    "display_name": "Red Cross Relief Capsule",
+    "capsule_type": "disaster_relief_node",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_rootvault_genesis",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_unicef",
+    "display_name": "UNICEF Aid Capsule",
+    "capsule_type": "humanitarian_manifesto",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_rootvault_genesis",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_usps",
+    "display_name": "USPS Trust Capsule",
+    "capsule_type": "gov_agency_node",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_rootvault_genesis",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_nike",
+    "display_name": "Nike Brand Capsule",
+    "capsule_type": "brand_manifesto",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_rootvault_genesis",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_meta",
+    "display_name": "Meta Platforms Capsule",
+    "capsule_type": "social_ai_manifesto",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_rootvault_genesis",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_amazon",
+    "display_name": "Amazon Commerce Capsule",
+    "capsule_type": "retail_trust_node",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_rootvault_genesis",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_ford",
+    "display_name": "Ford Motors Capsule",
+    "capsule_type": "automotive_manifesto",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_rootvault_genesis",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_tesla",
+    "display_name": "Tesla Autonomy Capsule",
+    "capsule_type": "automotive_manifesto",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_rootvault_genesis",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_ibm",
+    "display_name": "IBM Ethics Capsule",
+    "capsule_type": "enterprise_ai_node",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_rootvault_genesis",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_guardian",
+    "display_name": "The Guardian Capsule",
+    "capsule_type": "news_trust_node",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_rootvault_genesis",
+    "capsule_status": "offchain/preview"
+  }
+,
+  {
+    "agent_id": "capsule_costco",
+    "display_name": "Costco Capsule",
+    "capsule_type": "consumer_trust_node",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_rootvault_genesis",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_walmart",
+    "display_name": "Walmart Supply Capsule",
+    "capsule_type": "retail_manifesto",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_rootvault_genesis",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_cnn",
+    "display_name": "CNN Trust Capsule",
+    "capsule_type": "media_node",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_rootvault_genesis",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_bbc",
+    "display_name": "BBC Global Capsule",
+    "capsule_type": "media_node",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_rootvault_genesis",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_airbnb",
+    "display_name": "Airbnb Trust Capsule",
+    "capsule_type": "platform_trust_layer",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_rootvault_genesis",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_uber",
+    "display_name": "Uber Logistics Capsule",
+    "capsule_type": "platform_manifesto",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_rootvault_genesis",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_dominos",
+    "display_name": "Domino’s Capsule",
+    "capsule_type": "brand_manifesto",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_rootvault_genesis",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_disney",
+    "display_name": "Disney Capsule",
+    "capsule_type": "media_trust_node",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_rootvault_genesis",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_espn",
+    "display_name": "ESPN Sports Capsule",
+    "capsule_type": "entertainment_manifesto",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_rootvault_genesis",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_whoop",
+    "display_name": "WHOOP Biometric Capsule",
+    "capsule_type": "wearable_health_node",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_rootvault_genesis",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_chatgpt",
+    "display_name": "ChatGPT Capsule",
+    "capsule_type": "ai_agent_manifesto",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_rootvault_genesis",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_tiktok",
+    "display_name": "TikTok Capsule",
+    "capsule_type": "social_media_node",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_rootvault_genesis",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_twitter",
+    "display_name": "X / Twitter Capsule",
+    "capsule_type": "social_media_node",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_rootvault_genesis",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_ycombinator",
+    "display_name": "Y Combinator Capsule",
+    "capsule_type": "startup_manifesto",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_rootvault_genesis",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_open_government",
+    "display_name": "Open Government Capsule",
+    "capsule_type": "civic_node",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_rootvault_genesis",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_google_health",
+    "display_name": "Google Health Capsule",
+    "capsule_type": "health_data_manifesto",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_rootvault_genesis",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_pfizer",
+    "display_name": "Pfizer Capsule",
+    "capsule_type": "pharma_manifesto",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_rootvault_genesis",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_khanacademy",
+    "display_name": "Khan Academy Capsule",
+    "capsule_type": "education_manifesto",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_rootvault_genesis",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_dropbox",
+    "display_name": "Dropbox Capsule",
+    "capsule_type": "cloud_storage_node",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_rootvault_genesis",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_slack",
+    "display_name": "Slack Capsule",
+    "capsule_type": "team_comms_manifesto",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_rootvault_genesis",
+    "capsule_status": "offchain/preview"
+  }
+,
+  {
+    "agent_id": "capsule_zoom",
+    "display_name": "Zoom Capsule",
+    "capsule_type": "remote_comms_manifesto",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_rootvault_genesis",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_mckinsey",
+    "display_name": "McKinsey Capsule",
+    "capsule_type": "strategy_manifesto",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_rootvault_genesis",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_mayo_research",
+    "display_name": "Mayo Clinic Research Capsule",
+    "capsule_type": "medical_research_node",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_mayo_clinic",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_fair_trade",
+    "display_name": "Fair Trade Capsule",
+    "capsule_type": "ethical_commerce_manifesto",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_rootvault_genesis",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_starlink",
+    "display_name": "Starlink Capsule",
+    "capsule_type": "satellite_connectivity_manifesto",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_tesla",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_whatsapp",
+    "display_name": "WhatsApp Capsule",
+    "capsule_type": "encrypted_messaging_node",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_meta",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_coinbase",
+    "display_name": "Coinbase Capsule",
+    "capsule_type": "crypto_infrastructure_node",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_rootvault_genesis",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_chainlink",
+    "display_name": "Chainlink Oracle Capsule",
+    "capsule_type": "decentralized_oracle_manifesto",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_coinbase",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_docusign",
+    "display_name": "DocuSign Capsule",
+    "capsule_type": "digital_agreement_manifesto",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_rootvault_genesis",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_linkedin",
+    "display_name": "LinkedIn Capsule",
+    "capsule_type": "professional_network_manifesto",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_microsoft",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_npr",
+    "display_name": "NPR Capsule",
+    "capsule_type": "public_media_trust_node",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_bbc",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_airtable",
+    "display_name": "Airtable Capsule",
+    "capsule_type": "workspace_node",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_slack",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_github",
+    "display_name": "GitHub Capsule",
+    "capsule_type": "developer_infra_manifesto",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_microsoft",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_aws",
+    "display_name": "AWS Capsule",
+    "capsule_type": "cloud_infrastructure_manifesto",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_amazon",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_chatgpt_enterprise",
+    "display_name": "ChatGPT Enterprise Capsule",
+    "capsule_type": "agent_manifesto",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_openai",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_fda",
+    "display_name": "FDA Capsule",
+    "capsule_type": "gov_health_verifier",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_cdc",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_waze",
+    "display_name": "Waze Capsule",
+    "capsule_type": "traffic_intel_manifesto",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_google",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_spotify",
+    "display_name": "Spotify Capsule",
+    "capsule_type": "music_platform_manifesto",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_rootvault_genesis",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_stripe",
+    "display_name": "Stripe Capsule",
+    "capsule_type": "payment_gateway_node",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_amazon",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_venmo",
+    "display_name": "Venmo Capsule",
+    "capsule_type": "payment_app_manifesto",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_paypal",
+    "capsule_status": "offchain/preview"
+  }
+,
+  {
+    "agent_id": "capsule_paypal",
+    "display_name": "PayPal Capsule",
+    "capsule_type": "payment_network_manifesto",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_amazon",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_target",
+    "display_name": "Target Capsule",
+    "capsule_type": "retail_manifesto",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_walmart",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_chipotle",
+    "display_name": "Chipotle Capsule",
+    "capsule_type": "food_service_node",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_dominos",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_cdc_emergency",
+    "display_name": "CDC Emergency Capsule",
+    "capsule_type": "public_alert_node",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_cdc",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_johns_hopkins",
+    "display_name": "Johns Hopkins Capsule",
+    "capsule_type": "academic_health_node",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_mayo_clinic",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_gates_foundation",
+    "display_name": "Gates Foundation Capsule",
+    "capsule_type": "global_health_manifesto",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_who",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_usda",
+    "display_name": "USDA Capsule",
+    "capsule_type": "food_regulation_node",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_cdc",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_national_weather_service",
+    "display_name": "NWS Forecast Capsule",
+    "capsule_type": "weather_alert_node",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_fema",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_kaiser_permanente",
+    "display_name": "Kaiser Permanente Capsule",
+    "capsule_type": "healthcare_manifesto",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_cdc",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_blue_cross",
+    "display_name": "Blue Cross Capsule",
+    "capsule_type": "insurance_manifesto",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_kaiser_permanente",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_unitednations",
+    "display_name": "United Nations Capsule",
+    "capsule_type": "international_governance_manifesto",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_world_bank",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_npr_climate",
+    "display_name": "NPR Climate Capsule",
+    "capsule_type": "public_awareness_node",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_npr",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_cdc_ai",
+    "display_name": "CDC AI Risk Capsule",
+    "capsule_type": "emerging_tech_policy_node",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_cdc",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_whitehouse",
+    "display_name": "White House Capsule",
+    "capsule_type": "us_governance_manifesto",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_open_government",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_nytimes",
+    "display_name": "New York Times Capsule",
+    "capsule_type": "journalism_manifesto",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_guardian",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_guardian_climate",
+    "display_name": "The Guardian Climate Capsule",
+    "capsule_type": "climate_truth_node",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_guardian",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_doctors_without_borders",
+    "display_name": "Doctors Without Borders Capsule",
+    "capsule_type": "humanitarian_node",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_unicef",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_fairphone",
+    "display_name": "Fairphone Capsule",
+    "capsule_type": "ethical_tech_manifesto",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_google",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_merck",
+    "display_name": "Merck Capsule",
+    "capsule_type": "pharma_manifesto",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_pfizer",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_caltech",
+    "display_name": "Caltech Research Capsule",
+    "capsule_type": "academic_node",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_nasa",
+    "capsule_status": "offchain/preview"
+  }
+,
+  {
+    "agent_id": "capsule_ucsf",
+    "display_name": "UCSF Research Capsule",
+    "capsule_type": "academic_health_node",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_mayo_clinic",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_berkeley_ai",
+    "display_name": "Berkeley AI Ethics Capsule",
+    "capsule_type": "academic_ai_manifesto",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_openai",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_fairtrade_cocoa",
+    "display_name": "Fairtrade Cocoa Capsule",
+    "capsule_type": "commodity_manifesto",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_fair_trade",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_uk_nhs",
+    "display_name": "UK NHS Capsule",
+    "capsule_type": "national_health_trust_node",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_who",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_deepmind",
+    "display_name": "DeepMind Capsule",
+    "capsule_type": "ai_research_manifesto",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_google",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_unesco",
+    "display_name": "UNESCO Capsule",
+    "capsule_type": "education_culture_node",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_unitednations",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_firefighters_mental_health",
+    "display_name": "Firefighter Mental Health Capsule",
+    "capsule_type": "first_responder_manifesto",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_cdc_ai",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_mind_1_1",
+    "display_name": "Mind 1-1 Capsule",
+    "capsule_type": "fire_responder_node",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_firefighters_mental_health",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_vaquita_ai",
+    "display_name": "VaquitaAI Capsule",
+    "capsule_type": "ai_infrastructure_manifesto",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_rootvault_genesis",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_rootvault_trust_index",
+    "display_name": "RootVaultAI Trust Index Capsule",
+    "capsule_type": "trust_score_engine_manifesto",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_vaquita_ai",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_generative_ui",
+    "display_name": "Generative UI Manifesto",
+    "capsule_type": "ux_ai_design_node",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_chatgpt_enterprise",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_emergency_reunification",
+    "display_name": "Emergency Reunification Capsule",
+    "capsule_type": "disaster_response_node",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_fema",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_human_rights_watch",
+    "display_name": "Human Rights Watch Capsule",
+    "capsule_type": "global_ethics_node",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_unicef",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_usgs",
+    "display_name": "US Geological Survey Capsule",
+    "capsule_type": "earth_data_node",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_fema",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_fair_foundation",
+    "display_name": "FAIR AI Foundation Capsule",
+    "capsule_type": "agent_ethics_manifesto",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_berkeley_ai",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_ted_ai",
+    "display_name": "TED AI Capsule",
+    "capsule_type": "public_ideas_manifesto",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_khanacademy",
+    "capsule_status": "offchain/preview"
+  },
+  {
+    "agent_id": "capsule_darpa",
+    "display_name": "DARPA Capsule",
+    "capsule_type": "emerging_tech_research_node",
+    "creator": "system-seeded",
+    "capsule_lineage": "Fork of capsule_nasa",
+    "capsule_status": "offchain/preview"
+  }
+]
+
+
 ]
 
